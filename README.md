@@ -1,13 +1,15 @@
-## 프로필  
+## Profile  
 
-**Backend Developer**
+### 🗓️ Brief 
+* Name: 설동민, aka Sight <br/>
+* Position: Backend Developer <br/>
+* Email: sdm3285@gmail.com <br/>
+* LinkedIn: https://www.linkedin.com/in/dong-min-seol-243b6119a/
+* Blog: https://sightstudio.tistory.com
 
-* 이름: 설동민 <br/>
-* 닉네임: Sight <br/>
-* 이메일: sdm3285@gmail.com <br/>
-* Linkedin: https://www.linkedin.com/in/dong-min-seol-243b6119a/
-* 블로그: https://sightstudio.tistory.com
-
-### Contribition
+### :octocat: Contributions
 - [Scrimage](https://github.com/sksamuel/scrimage) 
-  - webp support related
+  - PR (https://github.com/sksamuel/scrimage/pull/225) 
+    - support webp binary in multiple os at once
+  - PR (https://github.com/sksamuel/scrimage/pull/221)
+    - skip unix permission check on windows when loading webp binaries
