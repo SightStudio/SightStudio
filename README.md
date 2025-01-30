@@ -25,3 +25,11 @@
     - support webp binary in multiple os at once
   - PR (https://github.com/sksamuel/scrimage/pull/221)
     - skip unix permission check on windows when loading webp binaries
+
+
+#### 👨‍🎓 Educations
+
+- 도메인 주도 설계의 사실과 오해 7기 (2024.12.15 ~ 2024.12.22)
+- 만들면서 배우는 JPA 4기 (2024.10 ~ 2024.11)
+- ATDD, 클린코드 with Spring 7기 (2023.06 ~ 2023.08)
+- TDD, 클린코드 with Java 16기 (2023.04 ~ 2023.06) 
