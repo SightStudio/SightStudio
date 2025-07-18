@@ -25,7 +25,10 @@
     - support webp binary in multiple os at once
   - PR (https://github.com/sksamuel/scrimage/pull/221)
     - skip unix permission check on windows when loading webp binaries
-
+   
+- `[MCP]` [typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
+  - PR (https://github.com/modelcontextprotocol/typescript-sdk/pull/720)
+    - support oauth client_secret_basic / none method
 
 #### 👨‍🎓 Educations
 
